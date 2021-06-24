@@ -1,6 +1,7 @@
 # Speech-Recognize-via-CNN
  Speech-Recognize-via-CNN  
  推荐使用Google Colab运行  
+ FireFox浏览器运行起来可能有些许问题
 # Colab 运行方法  
  ## 1. 打开Colab并登录账号：https://colab.research.google.com
  ## 2. 按下图，红色箭头选择从Github运行笔记本，绿色粘贴地址  
